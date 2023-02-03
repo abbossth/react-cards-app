@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Cobalt",
+        "photo": "https://www.autostrada.uz/wp-content/uploads/2022/08/chevrolet-cobalt-v-komplektacii-style-at-two-tone-na-stoyanke-avtosalona-v-tashkente-scaled.jpeg",
+        "type": 1111
+    },
+    {
+        "id": 2,
+        "name": "BMW X6",
+        "photo": "https://www.bmw.uz/content/dam/bmw/common/all-models/x-series/x6/2021/highlights/bmw-x6-onepager-vc-driving-screens.jpg",
+        "type": 5454
+    },
+    {
+        "id": 3,
+        "name": "Mercedes Benz 223",
+        "photo": "https://www.topgear.com/sites/default/files/2022/01/1-Mercedes-G-Class.jpg",
+        "type": 7777
+    },
+    {
+        "id": 1,
+        "name": "Cobalt",
+        "photo": "https://www.autostrada.uz/wp-content/uploads/2022/08/chevrolet-cobalt-v-komplektacii-style-at-two-tone-na-stoyanke-avtosalona-v-tashkente-scaled.jpeg",
+        "type": 1111
+    },
+    {
+        "id": 2,
+        "name": "BMW X6",
+        "photo": "https://www.bmw.uz/content/dam/bmw/common/all-models/x-series/x6/2021/highlights/bmw-x6-onepager-vc-driving-screens.jpg",
+        "type": 5454
+    },
+    {
+        "id": 3,
+        "name": "Mercedes Benz 223",
+        "photo": "https://www.topgear.com/sites/default/files/2022/01/1-Mercedes-G-Class.jpg",
+        "type": 7777
+    },
+    {
+        "id": 1,
+        "name": "Cobalt",
+        "photo": "https://www.autostrada.uz/wp-content/uploads/2022/08/chevrolet-cobalt-v-komplektacii-style-at-two-tone-na-stoyanke-avtosalona-v-tashkente-scaled.jpeg",
+        "type": 1111
+    },
+    {
+        "id": 2,
+        "name": "BMW X6",
+        "photo": "https://www.bmw.uz/content/dam/bmw/common/all-models/x-series/x6/2021/highlights/bmw-x6-onepager-vc-driving-screens.jpg",
+        "type": 5454
+    },
+    {
+        "id": 3,
+        "name": "Mercedes Benz 223",
+        "photo": "https://www.topgear.com/sites/default/files/2022/01/1-Mercedes-G-Class.jpg",
+        "type": 7777
+    },
+    {
+        "id": 1,
+        "name": "Cobalt",
+        "photo": "https://www.autostrada.uz/wp-content/uploads/2022/08/chevrolet-cobalt-v-komplektacii-style-at-two-tone-na-stoyanke-avtosalona-v-tashkente-scaled.jpeg",
+        "type": 1111
+    },
+    {
+        "id": 2,
+        "name": "BMW X6",
+        "photo": "https://www.bmw.uz/content/dam/bmw/common/all-models/x-series/x6/2021/highlights/bmw-x6-onepager-vc-driving-screens.jpg",
+        "type": 5454
+    },
+    {
+        "id": 3,
+        "name": "Mercedes Benz 223",
+        "photo": "https://www.topgear.com/sites/default/files/2022/01/1-Mercedes-G-Class.jpg",
+        "type": 7777
+    }
+]
